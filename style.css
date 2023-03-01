@@ -18,7 +18,7 @@ body {
 
 button a {
 	color: white;
-  font-family: 'Comic Sans MS';
+  font-family: 'Times New Roman';
   }
 
 button {
@@ -82,7 +82,7 @@ button {
 }
 
 .headline {
-  font-family: 'Comic Sans MS';
+  font-family: 'Times New Roman';
   font-size: 2.5vw;
   font-style: heavy;
   font-weight: normal;

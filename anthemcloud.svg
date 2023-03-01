@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='1000.00pt' height='400.00pt' viewBox='0 0 1000.00 400.00'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='400.00pt' height='400.00pt' viewBox='0 0 400.00 400.00'>
 <defs>
   <style type='text/css'><![CDATA[
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
@@ -16,21 +16,21 @@
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
 <defs>
-  <clipPath id='cpMC4wMHwxMDAwLjAwfDAuMDB8NDAwLjAw'>
-    <rect x='0.00' y='0.00' width='1000.00' height='400.00' />
+  <clipPath id='cpMC4wMHw0MDAuMDB8MC4wMHw0MDAuMDA='>
+    <rect x='0.00' y='0.00' width='400.00' height='400.00' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHwxMDAwLjAwfDAuMDB8NDAwLjAw)'>
-<rect x='0.00' y='0.00' width='1000.00' height='400.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+<g clip-path='url(#cpMC4wMHw0MDAuMDB8MC4wMHw0MDAuMDA=)'>
+<rect x='0.00' y='0.00' width='400.00' height='400.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpNS40OHw5OTQuNTJ8NS40OHwzOTQuNTI='>
-    <rect x='5.48' y='5.48' width='989.04' height='389.04' />
+  <clipPath id='cpNS40OHwzOTQuNTJ8NS40OHwzOTQuNTI='>
+    <rect x='5.48' y='5.48' width='389.04' height='389.04' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpNS40OHw5OTQuNTJ8NS40OHwzOTQuNTI=)'>
-<rect x='5.48' y='5.48' width='989.04' height='389.04' style='stroke-width: 1.07; stroke: none; fill: #EBEBEB;' />
+<g clip-path='url(#cpNS40OHwzOTQuNTJ8NS40OHwzOTQuNTI=)'>
+<rect x='5.48' y='5.48' width='389.04' height='389.04' style='stroke-width: 1.07; stroke: none; fill: #EBEBEB;' />
 </g>
-<g clip-path='url(#cpMC4wMHwxMDAwLjAwfDAuMDB8NDAwLjAw)'>
+<g clip-path='url(#cpMC4wMHw0MDAuMDB8MC4wMHw0MDAuMDA=)'>
 </g>
 </svg>

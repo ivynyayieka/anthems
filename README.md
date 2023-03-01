@@ -20,19 +20,27 @@ I removed these words from the list of most common words. <br />
 
 The remaining words I then used R to create a word bubble with.<br />
 
-# How I analysed the inclusion of the God in the national anthems:
+# How I analysed the inclusion of the words for God in the national anthems:
 Using the text of the national anthems, I searched for the words God and Lord and created a new column that indicated whether they were present and absent.<br />
+
 To draw the conclusion on former British colonies in Africa being more likely to include the word God in them, I used the map. <br />
-I think a more indepth analysis could consider more words eg. 'Prophet', which, even though it does not reference God, can signal a countries religiousness. However, I do not know how far that expansion could go. For instance, would the words "sacred" signal religion? How about "blessed"?
+
+A more indepth analysis could involve merging two data sets matching countries' names to a dataset of countries' names and colonies and comparing percentages. <br />
+
+I think another point of analysis could consider more words eg. 'Prophet', which, even though it does not reference God, can signal a countries religiousness. However, I do not know how far that expansion could go. For instance, would the words "sacred" signal religion? How about "blessed"?
 
 # How I analysed danceability, positivity and sadness
-For this, I used Spotify API to scrape national anthem tracks. In it, I extracted measures of danceability, positivity and modes or keys used for the songs. <br />
+For this, I used Spotify API to scrape national anthem tracks. <br />
+
+In it, I extracted measures of danceability, positivity and modes or keys used for the songs. <br />
+
 I got a lot of support for this section from looking at [LUIZ FERNANDO TOLEDO's analysis of Iron Maiden songs](
 https://github.com/luizftoledo/luizftoledo.github.io/blob/main/iron-maiden-happiness/docs/data_analysis_maiden.ipynb)
 
 # How I used the text of the  national anthems to analyse the mood 
 
 For this, I ran the text through an emotion lexicon used by the [New York Times](https://www.nytimes.com/interactive/2017/02/28/upshot/trump-sounds-different-tone-in-first-address-to-congress.html) and also [Jonathan Soma's guidlines](https://investigate.ai/upshot-trump-emolex/trump-vs-state-of-the-union-addresses/) on reproducing the analysis.<br />
+
 A further analysis could include more countries' national anthems translated to English so that one can compare positivity of the text using this analysis, for instance, to positivity of the music using Spotify's API to crosscheck findings. <br />
 
 # Sources

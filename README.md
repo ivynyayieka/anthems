@@ -23,6 +23,8 @@ The remaining words I then used R to create a word bubble with.<br />
 # How I analysed the inclusion of the words for God in the national anthems:
 Using the text of the national anthems, I searched for the words God and Lord and created a new column that indicated whether they were present and absent.<br />
 
+To cross-check the trend for Africa, I filled in any missing data for African countries through an online search  <br />
+
 To draw the conclusion on former British colonies in Africa being more likely to include the word God in them, I used the map. <br />
 
 A more indepth analysis could involve merging two data sets matching countries' names to a dataset of countries' names and colonies and comparing percentages. <br />

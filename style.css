@@ -1,7 +1,7 @@
 body {
 	width: 85vw;
 	margin: auto;
-  font-family: 'Comic Sans MS';
+  font-family: 'Times New Roman';
 }
 
 .column {
@@ -72,6 +72,13 @@ button {
   column-fill: yellow;
 }
 
+#first-image {
+  width:50%;
+}
+
+/* #text_word {
+  width:50%;
+} */
 .banner.image{
   opacity:95%;
   border:0px;

@@ -1,0 +1,17 @@
+"Country","name","value"
+"Brazil","positivity",0.6
+"Brazil","anger",0
+"Brazil","sad",0
+"Brazil","joy",0.6
+"Greenland","positivity",0.458333333333333
+"Greenland","anger",0.125
+"Greenland","sad",0.208333333333333
+"Greenland","joy",0.333333333333333
+"Iran","positivity",0.452380952380952
+"Iran","anger",0.30952380952381
+"Iran","sad",0.166666666666667
+"Iran","joy",0
+"Malaysia","positivity",0.757575757575758
+"Malaysia","anger",0
+"Malaysia","sad",0.0303030303030303
+"Malaysia","joy",0.333333333333333
